@@ -14,7 +14,6 @@ import javax.ejb.Stateless;
 import javax.naming.InitialContext;
 import javax.naming.NamingException;
 
-//tru-la-la
 @Stateless
 public class informator implements informatorInterfaceRemote {
     
