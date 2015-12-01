@@ -15,6 +15,7 @@ import javax.naming.InitialContext;
 import javax.naming.NamingException;
 
 @Stateless
+// xxx
 public class informator implements informatorInterfaceRemote {
     
     private InitialContext ic;
