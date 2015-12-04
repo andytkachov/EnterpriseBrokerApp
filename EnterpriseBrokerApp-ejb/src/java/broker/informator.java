@@ -16,6 +16,7 @@ import javax.naming.NamingException;
 
 @Stateless
 // xxx
+//master branch
 public class informator implements informatorInterfaceRemote {
     
     private InitialContext ic;
